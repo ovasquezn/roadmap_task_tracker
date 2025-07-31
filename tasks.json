@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "description": "Comprar fruta",
+        "status": "todo",
+        "createdAt": "2025-07-30 22:28:41",
+        "updatedAt": "2025-07-30 22:28:41"
+    },
+    {
+        "id": 2,
+        "description": "Comprar verdura",
+        "status": "todo",
+        "createdAt": "2025-07-30 22:28:44",
+        "updatedAt": "2025-07-30 22:28:44"
+    }
+]
